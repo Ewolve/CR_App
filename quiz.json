@@ -71,7 +71,7 @@
 			]
         },
 		{
-            "question": "Wo würdest Du Dich in der Kirche gerne engagieren?",
+            "question": "Wie würdest Du Dich gerne in der Kirche engagieren?",
 			"answers": [
 				{"answer":"In der Jugendarbeit","value":"L"},
 				{"answer":"Als Küster","value":"B"},
