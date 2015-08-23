@@ -12,8 +12,14 @@ html, body{
 	text-decoration:none;
 	text-align: center;
 	line-height:7vmin;
+	height:100%;
+	display: table-cell;
+	vertical-align: middle;
 }
 .qz-maintitle {
+	height:100%;
+	display: table-cell;
+	vertical-align: middle;
 	font-family:Titillium Web,Roboto,Arial,sans-serif;
 	font-size:8vmin;
 	font-weight:400;
@@ -28,18 +34,20 @@ html, body{
 	text-align: center;
 	margin: 1vh 0px 1vh 0px;
 	vertical-align: middle;
-	line-height: 5vh;
+	height:100%;
+	display: table-cell;
 }
 .qz-answer {
+	display: table-cell;
+	vertical-align: middle;
 	font-family:Titillium Web,Roboto,Arial,sans-serif;
 	font-size:6vmin;
 	font-weight:400;
 	text-decoration:none;
 	text-align: center;
 	padding: 0px 2vmin 0px 2vmin;
-	margin: 1vh 0px 1vh 0px;
-	vertical-align: middle;
-	line-height:6vh;
+	line-height: 5.5vmin;
+	height:100%;
 }
 .qz-introduction {
 	font-family:Titillium Web,Roboto,Arial,sans-serif;
@@ -61,26 +69,26 @@ html, body{
 	color:#B70069;
 }
 .qz-ans{
-	display: block;
-	margin: 0px 0px 0px 0px;
 	width:100%;
+	display: table;
+	text-align: center;
+	margin: 1vh 0px 1vh 0px;
 	height: 13vh;
 	background-color: #B70069;
 	color:#B1CB10;
 	cursor:pointer;
 }
 .qz-ans:active{
-	display: block;
-	margin: 0px 0px 0px 0px;
-	padding: auto;
 	width:100%;
+	display: table;
+	margin: 1vh 0px 1vh 0px;
 	height: 13vh;
 	background-color: #B1CB10;
 	color:#B70069;
 	cursor:pointer;
 }
 .qz-back{
-	display: block;
+	display: table;
 	margin: 0px 0px 0px 0px;
 	padding: auto;
 	width:100%;
@@ -90,7 +98,7 @@ html, body{
 	cursor:pointer;
 }
 .qz-back:active{
-	display: block;
+	display: table;
 	margin: 0px 0px 0px 0px;
 	padding: auto;
 	width:100%;
@@ -100,9 +108,8 @@ html, body{
 	cursor:pointer;
 }
 .qz-quest{
-	display: block;
+	display: table;
 	margin: 0px 0px 0px 0px;
-	padding: 3vh 0px 0px 0px;
 	width:100%;
 	height: 15vh;
 	background-color: #B1CB10;
