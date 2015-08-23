@@ -1,0 +1,9 @@
+<div class="qz-quest">
+	<div class="qz-question">{{currentQuest.question}}</div>
+</div>
+<div class="qz-ans" ng-repeat="answer in currentQuest.answers">
+	<div ng-click="next(answer.value)" ng-value="answer.value" class="qz-answer">{{answer.answer}}</div>
+</div>
+<footer class="qz-back" style="position:absolute;bottom:15;">
+	<div ng-click="back()" class="qz-backans">Zurück</div>
+</footer>

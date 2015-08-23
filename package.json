@@ -1,0 +1,9 @@
+{
+	"name": "resource-share",
+	"description": "Resourcen verleih system",
+	"author": "Marian",
+    "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

@@ -1,0 +1,110 @@
+html, body{
+    margin:0;
+    padding:0;
+    min-width: 100%;
+	background-color: #009BB5;
+}
+.qz-question {
+	font-family:Titillium Web,Roboto,Arial,sans-serif;
+	font-size:6.5vmin;
+	font-weight:800;
+	padding: 0px 2vmin 0px 2vmin;
+	text-decoration:none;
+	text-align: center;
+	line-height:7vmin;
+}
+.qz-maintitle {
+	font-family:Titillium Web,Roboto,Arial,sans-serif;
+	font-size:8vmin;
+	font-weight:400;
+	text-decoration:none;
+	text-align: center;
+}
+.qz-backans {
+	font-family:Titillium Web,Roboto,Arial,sans-serif;
+	font-size:5.5vmin;
+	font-weight:400;
+	text-decoration:none;
+	text-align: center;
+	margin: 1vh 0px 1vh 0px;
+	vertical-align: middle;
+	line-height: 5vh;
+}
+.qz-answer {
+	font-family:Titillium Web,Roboto,Arial,sans-serif;
+	font-size:7vmin;
+	font-weight:400;
+	text-decoration:none;
+	text-align: center;
+	padding: 0px 2vmin 0px 2vmin;
+	margin: 1vh 0px 1vh 0px;
+	vertical-align: middle;
+	line-height:6.5vh;
+}
+.qz-introduction {
+	font-family:Titillium Web,Roboto,Arial,sans-serif;
+	font-size:6vmin;
+	font-weight:400;
+	text-decoration:none;
+	text-align: center;
+	color:#B1CB10;
+	padding: 0px 1vw 0px 1vw;
+	margin: 5vh 0px 5vh 0px;
+}
+.qz-result {
+	font-family:Titillium Web,Roboto,Arial,sans-serif;
+	font-size:11vmin;
+	font-weight:400;
+	text-decoration:none;
+	text-align: center;
+	margin: 0vh 0px 1vh 0px;
+	color:#B70069;
+}
+.qz-ans{
+	display: block;
+	margin: 0px 0px 0px 0px;
+	width:100%;
+	height: 13vh;
+	background-color: #B70069;
+	color:#B1CB10;
+	cursor:pointer;
+}
+.qz-ans:active{
+	display: block;
+	margin: 0px 0px 0px 0px;
+	padding: auto;
+	width:100%;
+	height: 13vh;
+	background-color: #B1CB10;
+	color:#B70069;
+	cursor:pointer;
+}
+.qz-back{
+	display: block;
+	margin: 0px 0px 0px 0px;
+	padding: auto;
+	width:100%;
+	height: 7vh;
+	background-color: #B1CB10;
+	color: #009BB5;
+	cursor:pointer;
+}
+.qz-back:active{
+	display: block;
+	margin: 0px 0px 0px 0px;
+	padding: auto;
+	width:100%;
+	height: 7vh;
+	background-color: #B70069;
+	color:#B1CB10;
+	cursor:pointer;
+}
+.qz-quest{
+	display: block;
+	margin: 0px 0px 0px 0px;
+	padding: 3vh 0px 0px 0px;
+	width:100%;
+	height: 15vh;
+	background-color: #B1CB10;
+	color: #009BB5;
+}

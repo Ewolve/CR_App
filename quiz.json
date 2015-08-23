@@ -1,0 +1,94 @@
+{
+	"questions": [
+        {
+            "question": "Welche Farbe magst Du am liebsten?",
+			"answers": [
+				{"answer":"Rot","value":"R"},
+				{"answer":"Grün","value":"H"},
+				{"answer":"Blau","value":"M"},
+				{"answer":"Gelb","value":"L"},
+				{"answer":"Orange","value":"B"}
+			]
+        },
+		{
+            "question": "Welche Person aus der Bibel wärst Du am ehesten?",
+			"answers": [
+				{"answer":"Moses","value":"H"},
+				{"answer":"Noah","value":"L"},
+				{"answer":"Josef (Jesus' Vater)","value":"B"},
+				{"answer":"Petrus","value":"M"},
+				{"answer":"Maria","value":"R"}
+			]
+        },
+		{
+            "question": "Welcher kirchliche Feiertag gefällt Dir am besten?",
+			"answers": [
+				{"answer":"Pfingsten","value":"R"},
+				{"answer":"Ostern","value":"H"},
+				{"answer":"Weihnachten","value":"M"},
+				{"answer":"St.Martin","value":"L"},
+				{"answer":"Erntedank","value":"B"}
+			]
+        },
+		{
+            "question": "Mit welchem Menschen würdest Du gerne mal einen Tag verbringen?",
+			"answers": [
+				{"answer":"Papst Franziskus","value":"M"},
+				{"answer":"Til Schweiger","value":"R"},
+				{"answer":"Manuel Neuer","value":"B"},
+				{"answer":"Joachim Gauck","value":"H"},
+				{"answer":"Christina Stürmer","value":"L"}
+			]
+        },
+		{
+            "question": "Welche Aktivität würdest Du am liebsten machen?",
+			"answers": [
+				{"answer":"Stadionsprecher im Bundesligaspiel","value":"R"},
+				{"answer":"Eisskulptur erschaffen","value":"B"},
+				{"answer":"Wellenreiten","value":"M"},
+				{"answer":"Entwicklungshelfer sein","value":"H"},
+				{"answer":"Mit den Toten Hosen auftreten","value":"L"}
+			]
+        },
+		{
+            "question": "Wo würdest Du gerne Urlaub machen?",
+			"answers": [
+				{"answer":"Am Mount Everest","value":"L"},
+				{"answer":"New York","value":"H"},
+				{"answer":"Ferienlager Ameland","value":"B"},
+				{"answer":"Mallorca","value":"M"},
+				{"answer":"Brüssel","value":"R"}
+			]
+        },
+		{
+            "question": "Was würdest Du am liebsten essen?",
+			"answers": [
+				{"answer":"Pommes Currywurst","value":"M"},
+				{"answer":"Bohneneintopf","value":"R"},
+				{"answer":"Kuchen 'Kalter Hund'","value":"B"},
+				{"answer":"Thai Curry","value":"L"},
+				{"answer":"Obstsalat","value":"H"}
+			]
+        },
+		{
+            "question": "Wo würdest Du Dich in der Kirche gerne engagieren?",
+			"answers": [
+				{"answer":"In der Jugendarbeit","value":"L"},
+				{"answer":"Als Küster","value":"B"},
+				{"answer":"Im Pflegedienst","value":"H"},
+				{"answer":"Als Chorleiter","value":"M"},
+				{"answer":"Als Pfarrgemeinderatsvorsitzende","value":"R"}
+			]
+        },
+		{
+            "question": "Bei welchem Ereignis wärst Du gerne dabei gewesen?",
+			"answers": [
+				{"answer":"Rede von Martin Luther King","value":"R"},
+				{"answer":"Mauerfall","value":"H"},
+				{"answer":"Mondlandung","value":"L"},
+				{"answer":"Verhüllung des Reichstages durch Christo","value":"B"},
+				{"answer":"Woodstock","value":"M"}
+			]
+        }
+    ]
+}
