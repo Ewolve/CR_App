@@ -6,9 +6,9 @@ html, body{
 }
 .qz-question {
 	font-family:Titillium Web,Roboto,Arial,sans-serif;
-	font-size:6vmin;
+	font-size:5.5vmin;
 	font-weight:800;
-	padding: 0px 1vmin 0px 1vmin;
+	padding: 0px 0.5vmin 0px 0.5vmin;
 	text-decoration:none;
 	text-align: center;
 	line-height:7vmin;
